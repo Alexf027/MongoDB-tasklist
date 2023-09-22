@@ -2,7 +2,7 @@
 
 ## ¿Qué es mi producto y para qué sirve? 
 
-**MongoDB Task List es una innovadora aplicación de gestión de tareas que te ayuda a mantener un control eficiente de tus actividades diarias. Diseñada pensando en la simplicidad y la facilidad de uso, nuestra aplicación permite a los usuarios organizar, priorizar y realizar un seguimiento de sus tareas de manera eficaz. Ya sea que estés gestionando proyectos complejos o simplemente quieras recordar tus tareas diarias, MongoDB Task List está aquí para simplificar tu vida.
+MongoDB Task List es una innovadora aplicación de gestión de tareas que te ayuda a mantener un control eficiente de tus actividades diarias. Diseñada pensando en la simplicidad y la facilidad de uso, nuestra aplicación permite a los usuarios organizar, priorizar y realizar un seguimiento de sus tareas de manera eficaz. Ya sea que estés gestionando proyectos complejos o simplemente quieras recordar tus tareas diarias, MongoDB Task List está aquí para simplificar tu vida.
 
 ## ¿Cuáles son las funcionalidades más importantes y por qué los usuarios las usarían? 
 
